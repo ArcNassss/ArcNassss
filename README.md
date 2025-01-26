@@ -7,8 +7,7 @@
 
 ###
 
-<img align="right" height="150" src="https://images.app.goo.gl/sPEqjA6yYHUFAEhx8"  />
-<img src="https://tenor.com/view/furina-gif-1303159701685008645"/>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -31,7 +30,9 @@
 ###
 
 <div align="left">
+  <a href="https://instagram.com/nasriillham">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###

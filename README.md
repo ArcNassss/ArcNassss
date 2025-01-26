@@ -8,7 +8,7 @@
 ###
 
 <img align="right" height="150" src="https://images.app.goo.gl/sPEqjA6yYHUFAEhx8"  />
-<div class="tenor-gif-embed" data-postid="1303159701685008645" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/furina-gif-1303159701685008645">Furina Sticker</a>from <a href="https://tenor.com/search/furina-stickers">Furina Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>****
+<img src="https://tenor.com/view/furina-gif-1303159701685008645"/>
 
 ###
 

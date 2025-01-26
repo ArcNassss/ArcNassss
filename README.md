@@ -1,4 +1,4 @@
-<h4 align="left">Hi 👋! My name is Nasril ilham saputra and I'm a student, from Tuban - Bojonegoro</h4>
+<h4 align="left">Hi 👋! My name is Nasril ilham saputra and I'm a student, from Tuban - Bojonegoro (I hate php but i love laravel so muchhhh💗💓💗💗💖💘</h4>
 
 ###
 
